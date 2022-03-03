@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">devcolibri_l26_transferDataBetweenfragments</string>
+    <string name="input_you_string">Input you string</string>
+    <string name="send_text">Send text</string>
+</resources>
